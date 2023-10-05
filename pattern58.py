@@ -1,4 +1,4 @@
-'''
+'''Katarua Rohita Reddy'''
 Pattern 58 (Fibonacci Pyramid)
 
  0
