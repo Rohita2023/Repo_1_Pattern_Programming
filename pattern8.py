@@ -1,4 +1,4 @@
-'''
+'''Katarua Rohita Reddy'''
 Pattern 8
 
  2  4  6  8 10
