@@ -1,7 +1,7 @@
 # Python-Pattern-Programs
 
-I make python pattern programs to learn the logics and python language in fun way. Anyone can learn it and it is absolutely free for all.
-And suggest me good ideas and comment/issues too.
+I make Python pattern programs to learn the logic and Python language in a fun way. Anyone can learn it and it is absolutely free for all.
+And suggest good ideas and comments/issues too.
 
 ## Contributing
 
@@ -10,9 +10,7 @@ Please fork this repository and contribute back. Any contributions, large or sma
 
 ## Authors
 
-- [@AniketJain](https://github.com/dev-aniketj/)
+- Kataru Rohita Reddy
 
-## Buy me a Coffee
 
-- [Aniket Jain](https://www.buymeacoffee.com/aniketjain/)
 
