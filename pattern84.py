@@ -1,4 +1,4 @@
-'''
+'''Katarua Rohita Reddy'''
 Pattern 84
 
 0 1 0 1 0
