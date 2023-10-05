@@ -1,4 +1,4 @@
-''' Katarua Rohita Reddy
+''' Katarua Rohita Reddy '''
 Pattern 1
 
 * * * * *
